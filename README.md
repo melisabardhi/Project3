@@ -19,11 +19,11 @@ The exploratory data analysis provided insight into stark disparities of stops a
 [![age.png](https://i.postimg.cc/wBL6gqTs/age.png)](https://postimg.cc/CZMy4V8F)
 
 #### White police officers are the most likely to arrest a subject, with Native American and Blacks being the least likely
-[![race-off.png](https://i.postimg.cc/MTYqf9B6/race-off.png)](https://postimg.cc/LYhrrBvw)
+[![off.png](https://i.postimg.cc/V6k6Kwzq/off.png)](https://postimg.cc/zL48f9bv)
 
 #### Beats with high crime correspond to those with the highest number of stops
-[![beat.png](https://i.postimg.cc/h4pKS3gM/beat.png)](https://postimg.cc/c6gphhv8)
-
+[![beat.png](https://i.postimg.cc/4d23M03r/beat.png)](https://postimg.cc/9RTVwJZp)
+ 
 #### Blacks and Native Americans are disproportionately over-arrested compared to their percentage in the Census, whereas Whites and Asias are under-arrested
 [![race-subj.png](https://i.postimg.cc/6q5wrCVd/race-subj.png)](https://postimg.cc/KkVdFkHz)
 
