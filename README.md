@@ -40,7 +40,7 @@ The features determined to play the most predictive role in the models appear to
 2) the location is in a high-crime beat
 3) the subject has a blade as a weapon
 4) the officer or subject race is white 
-5) the subject race is black. 
+5) the subject race is black 
 
 #### The model with the highest scores was the Balanced Random Forest
 
