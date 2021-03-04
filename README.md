@@ -1,7 +1,7 @@
 
 # Seattle Terry Stops
 
-### Tools Used
+## Tools Used
 Python, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
 
 ## Introduction
