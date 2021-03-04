@@ -1,6 +1,8 @@
 
 # Seattle Terry Stops
 
+### Tools Used
+Python, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
 
 ## Introduction
 
@@ -16,19 +18,19 @@ Below is a selection of the findings I found the most meaningfull.
 The exploratory data analysis provided insight into stark disparities of stops according to age and race.
 
 #### Younger police officers are more likely to stop and arrest a subject compared to older officers
-[![age.png](https://i.postimg.cc/wBL6gqTs/age.png)](https://postimg.cc/CZMy4V8F)
+![Screenshot](3.1.png)
 
 #### White police officers are the most likely to arrest a subject, with Native American and Blacks being the least likely
-[![off.png](https://i.postimg.cc/V6k6Kwzq/off.png)](https://postimg.cc/zL48f9bv)
+![Screenshot](3.2.png)
 
 #### Beats with high crime correspond to those with the highest number of stops
-[![beat.png](https://i.postimg.cc/4d23M03r/beat.png)](https://postimg.cc/9RTVwJZp)
+![Screenshot](3.3.png)
  
 #### Blacks and Native Americans are disproportionately over-arrested compared to their percentage in the Census, whereas Whites and Asias are under-arrested
-[![race-subj.png](https://i.postimg.cc/6q5wrCVd/race-subj.png)](https://postimg.cc/KkVdFkHz)
+![Screenshot](3.4.png)
 
 #### The null that the proportion of Blacks arrested is equal to the percentage of Blacks in the Seattle population is rejected
-[![null.png](https://i.postimg.cc/MTwzGCv3/null.png)](https://postimg.cc/67Mkj1VC)
+![Screenshot](3.5.png)
 
 
 ## Classification Models
